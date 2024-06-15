@@ -1,0 +1,1 @@
+hfgThis test task was performed for the Medgarant company. It was necessary to create free thirty-minute intervals, taking into account occupied slots and working hours. Also, it was decided to implement it according to the object-oriented paradigm, since this is important for the company
